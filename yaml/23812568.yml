@@ -1,0 +1,29 @@
+---
+id: 23812568
+name: Additional Mirror Level 7
+type: Spell Card
+frameType: spell
+desc: 'If a Level 7 monster(s) is Special Summoned to your field: Send 2 "Additional
+  Mirror Level 7" from your hand and/or Deck to the GY, then target 1 of those monsters;
+  you can only Special Summon from the Extra Deck once for the rest of this turn after
+  this card resolves, also Special Summon 2 monsters with that name from your Deck,
+  then take damage equal to the total original ATK of the monsters Special Summoned
+  by this effect.'
+race: Quick-Play
+card_sets:
+- set_name: 'Battles of Legend: Monstrous Revenge'
+  set_code: BLMR-EN047
+  set_rarity: Ultra Rare
+  set_rarity_code: "(UR)"
+  set_price: '0'
+card_images:
+- id: 23812568
+  image_url: https://images.ygoprodeck.com/images/cards/23812568.jpg
+  image_url_small: https://images.ygoprodeck.com/images/cards_small/23812568.jpg
+  image_url_cropped: https://images.ygoprodeck.com/images/cards_cropped/23812568.jpg
+card_prices:
+- cardmarket_price: '0.06'
+  tcgplayer_price: '0.04'
+  ebay_price: '0.00'
+  amazon_price: '0.00'
+  coolstuffinc_price: '0.49'

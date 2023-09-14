@@ -1,0 +1,28 @@
+---
+id: 42228966
+name: Battlefield Tragedy
+type: Spell Card
+frameType: spell
+desc: 'During your Main Phase 2, if no monster battled another monster this turn:
+  You can discard 1 card; Set 1 "Battlefield Tragedy" directly from your Deck to your
+  Spell & Trap Zone. You can only use this effect of "Battlefield Tragedy" once per
+  turn. Once per turn, during the End Phase, if a monster battled another monster
+  this turn: The turn player sends the top 5 cards of their Deck to the GY.'
+race: Continuous
+card_sets:
+- set_name: 'Battles of Legend: Monstrous Revenge'
+  set_code: BLMR-EN018
+  set_rarity: Secret Rare
+  set_rarity_code: "(ScR)"
+  set_price: '0'
+card_images:
+- id: 42228966
+  image_url: https://images.ygoprodeck.com/images/cards/42228966.jpg
+  image_url_small: https://images.ygoprodeck.com/images/cards_small/42228966.jpg
+  image_url_cropped: https://images.ygoprodeck.com/images/cards_cropped/42228966.jpg
+card_prices:
+- cardmarket_price: '0.10'
+  tcgplayer_price: '0.12'
+  ebay_price: '1.00'
+  amazon_price: '0.00'
+  coolstuffinc_price: '0.99'

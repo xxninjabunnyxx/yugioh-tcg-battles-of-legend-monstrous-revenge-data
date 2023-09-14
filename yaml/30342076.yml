@@ -1,0 +1,32 @@
+---
+id: 30342076
+name: Link Decoder
+type: Link Monster
+frameType: link
+desc: "1 Level 4 or lower Cyberse monster\r\nIf this card is sent to the GY as Link
+  Material for a Cyberse monster with 2300 or more original ATK: You can Special Summon
+  this card, but banish it when it leaves the field. You can only use this effect
+  of \"Link Decoder\" once per turn."
+atk: 300
+race: Cyberse
+attribute: DARK
+linkval: 1
+linkmarkers:
+- Bottom
+card_sets:
+- set_name: 'Battles of Legend: Monstrous Revenge'
+  set_code: BLMR-EN013
+  set_rarity: Ultra Rare
+  set_rarity_code: "(UR)"
+  set_price: '0'
+card_images:
+- id: 30342076
+  image_url: https://images.ygoprodeck.com/images/cards/30342076.jpg
+  image_url_small: https://images.ygoprodeck.com/images/cards_small/30342076.jpg
+  image_url_cropped: https://images.ygoprodeck.com/images/cards_cropped/30342076.jpg
+card_prices:
+- cardmarket_price: '0.19'
+  tcgplayer_price: '0.22'
+  ebay_price: '0.00'
+  amazon_price: '0.00'
+  coolstuffinc_price: '0.99'
